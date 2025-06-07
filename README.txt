@@ -7,3 +7,6 @@ taking recipes that we would like to make on a given night and create a shopping
 based on both.
 
 
+(while this is the initial intention, it may morph into being an inventory tool overall
+used to keep track of musical instruments checked out to students, or for a small retail
+business keeping track of sales.)
