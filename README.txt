@@ -11,3 +11,24 @@ based on both.
 used to keep track of musical instruments checked out to students, or for a small retail
 business keeping track of sales. Or, better yet, an inventory tracker for my piano tech
 business)
+
+==========================================================================================
+After consideration, the simplest course of action will be to make this a database
+of school owned musical instruments and whether they are checked out to a student, out for 
+repair, or in-house ready for use.  Will need the following:
+- Instrument type
+- Serial number
+- Repair status
+    - date out
+    - date in
+- Check-Out status
+- Student who checked it out
+    - date out
+    - condition
+        - new
+        - good
+        - fair
+    - date in
+        - good
+        - fair
+        - bad (needs repair)
