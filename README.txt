@@ -32,3 +32,10 @@ repair, or in-house ready for use.  Will need the following:
         - good
         - fair
         - bad (needs repair)
+
+===========================================================================================
+Utilizing a static HTML page for use as browser support (and for personal business later on)
+
+===========================================================================================
+decided to use Go instead of C because it is MUCH easier to use. Need to implement a CSV file
+and will be using python to grab and insert the information to that file later on.
